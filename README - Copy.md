@@ -14,10 +14,17 @@ A modern, animated cocktails showcase website built with React, TypeScript, and 
     - [Animations \& UI](#animations--ui)
     - [Development Tools](#development-tools)
   - [🚀 Deployment](#-deployment)
+    - [Live Application](#live-application)
+    - [Deployment Platform](#deployment-platform)
   - [🔐 Test and Admin Users Credentials](#-test-and-admin-users-credentials)
-    - [Regular User Account](#regular-user-account)
-    - [Admin User Account](#admin-user-account)
   - [👤 How to Use App for Regular User](#-how-to-use-app-for-regular-user)
+    - [1. **Landing Page**](#1-landing-page)
+    - [2. **Browse Cocktails**](#2-browse-cocktails)
+    - [3. **Explore About Section**](#3-explore-about-section)
+    - [4. **View Art Gallery**](#4-view-art-gallery)
+    - [5. **Check Menu**](#5-check-menu)
+    - [6. **Contact Us**](#6-contact-us)
+    - [7. **Navigation**](#7-navigation)
   - [⚙️ How to Use App for Admin User](#️-how-to-use-app-for-admin-user)
   - [📦 Installation](#-installation)
     - [Prerequisites](#prerequisites)
@@ -26,6 +33,7 @@ A modern, animated cocktails showcase website built with React, TypeScript, and 
     - [Available Scripts](#available-scripts)
     - [Project Structure](#project-structure)
   - [🎨 Customization](#-customization)
+    - [Modifying Content](#modifying-content)
   - [🌐 Browser Support](#-browser-support)
   - [📄 License](#-license)
   - [🤝 Contributing](#-contributing)
@@ -109,21 +117,7 @@ The application is deployed and accessible at the URL above. Visit the link to e
 
 ## 🔐 Test and Admin Users Credentials
 
-### Regular User Account
-
-- **Username:** `user@cocktails.com`
-- **Password:** `user123`
-- **Role:** Regular User
-- **Access Level:** Browse menu, view cocktails, submit contact form
-
-### Admin User Account
-
-- **Username:** `admin@cocktails.com`
-- **Password:** `admin123`
-- **Role:** Administrator
-- **Access Level:** Full access to content management, user management, analytics
-
-> ⚠️ **Note:** These are demo credentials for testing purposes. In production, please change these credentials immediately and use secure authentication methods.
+> ⚠️ **Note:** There is no user management system in this App.
 
 ---
 
@@ -175,58 +169,7 @@ The application is deployed and accessible at the URL above. Visit the link to e
 
 ## ⚙️ How to Use App for Admin User
 
-### 1. **Admin Login**
-   - Navigate to `/admin` (if implemented)
-   - Enter admin credentials
-   - Access the admin dashboard
-
-### 2. **Content Management**
-   - **Manage Cocktails:**
-     - Add new cocktails with name, country, details, and price
-     - Edit existing cocktail information
-     - Remove outdated items
-     - Upload cocktail images
-   
-   - **Manage Mocktails:**
-     - Add/edit mocktail listings
-     - Update pricing information
-     - Modify descriptions
-
-### 3. **Menu Administration**
-   - Update menu items and categories
-   - Change pricing
-   - Mark items as featured or seasonal
-   - Add promotional badges
-
-### 4. **Gallery Management**
-   - Upload new art/ambiance photos
-   - Organize gallery layout
-   - Delete outdated images
-   - Set featured images
-
-### 5. **Contact Form Management**
-   - View submitted contact forms
-   - Respond to customer inquiries
-   - Mark messages as read/resolved
-   - Export contact data
-
-### 6. **User Management** (if applicable)
-   - Create new user accounts
-   - Modify user permissions
-   - Deactivate accounts
-   - View user activity logs
-
-### 7. **Analytics Dashboard**
-   - View site traffic statistics
-   - Monitor popular sections
-   - Track user engagement
-   - Analyze contact form submissions
-
-### 8. **Settings & Configuration**
-   - Update site information
-   - Configure social media links
-   - Modify contact details
-   - Customize theme settings
+> ⚠️ **Note:** There is no user management system in this App.
 
 ---
 
